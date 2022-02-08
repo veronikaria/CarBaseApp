@@ -1,6 +1,6 @@
 ﻿namespace CarBaseApp
 {
-    class CarBase
+    partial class CarBase
     {
         private int fuel, carQuantity;
         private string carBaseName;
